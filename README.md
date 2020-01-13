@@ -1,3 +1,0 @@
-# GRRGCp
-
-Coming soon.
